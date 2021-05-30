@@ -21,3 +21,12 @@
 
 4. 개발 기간
 2021.04.27 ~ 2021.04.30
+
+5. 실행 화면
+![image](https://user-images.githubusercontent.com/70091108/120095831-08e3c500-c163-11eb-8649-e622db2d44fe.png)
+
+![image](https://user-images.githubusercontent.com/70091108/120095848-303a9200-c163-11eb-8b5f-8a75cfd3c327.png)
+
+![image](https://user-images.githubusercontent.com/70091108/120095856-37fa3680-c163-11eb-864a-6fde48b6ec9a.png)
+
+![image](https://user-images.githubusercontent.com/70091108/120095860-40eb0800-c163-11eb-806f-207b10719794.png)
